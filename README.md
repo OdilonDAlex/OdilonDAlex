@@ -2,7 +2,6 @@
 Bievenue sur mon profil github
 
 ## mes Compétences
-
 #### languages de programmation
 ![Languages](https://skillicons.dev/icons?i=python,php,javascript,c,cpp,java)
 
@@ -15,10 +14,11 @@ Bievenue sur mon profil github
 #### Base de données
 ![Database](https://skillicons.dev/icons?i=mysql,postgresql)
 
-## Stats github
-![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=odilondalex&show_icons=true&theme=cobalt)
+## en savoir plus ? 
+visite mon portfolio sur : [odilondalex.vercel.app](https://odilondalex.vercel.app)
 
-## Trouvez moi sur
+#### ou 
+
+## Trouve moi sur
 - [Facebook](https://www.facebook.com/OdilonDAlex2600)
 - [Linkedin](https://www.linkedin.com/in/odilon-d-alex-nomenjanahary-0a8a57223/)
-- [Personal Website](https://www.jacobsomer.com)
