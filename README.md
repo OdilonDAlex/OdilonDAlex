@@ -19,7 +19,7 @@ Bievenue sur mon profil github
 ![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,vuejs)
 
 #### Back-end
-[![Backend](https://skillicons.dev/icons?i=django,laravel)
+[!Backend](https://skillicons.dev/icons?i=django,laravel)
 
 #### Base de données
-![Database](https://skillicons.dev/icons?i=mysql,postgresql)
+[!Database](https://skillicons.dev/icons?i=mysql,postgresql)
