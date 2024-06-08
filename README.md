@@ -22,3 +22,4 @@ visite mon portfolio sur : [odilondalex.vercel.app](https://odilondalex.vercel.a
 ## Trouve moi sur
 - [Facebook](https://www.facebook.com/OdilonDAlex2600)
 - [Linkedin](https://www.linkedin.com/in/odilon-d-alex-nomenjanahary-0a8a57223/)
+- [Gmail](https://odilondalex2600@gmail.com)
