@@ -1,9 +1,6 @@
 ## Bonjour 👋
 Bievenue sur mon profil github
 
-## Stat
-![Odilon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
 ## mes Compétences
 #### languages de programmation
 ![Languages](https://skillicons.dev/icons?i=python,php,javascript,c,cpp,java)
